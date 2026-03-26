@@ -3,5 +3,5 @@ CREATE PROCEDURE usp_GetCustomers
 AS
 BEGIN
     SELECT * FROM Customers
-    Order by Name ;
+    Order by Name desc;
 END;
