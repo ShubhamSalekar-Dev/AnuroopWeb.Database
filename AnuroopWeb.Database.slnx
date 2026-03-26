@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AnuroopWeb.Database/AnuroopWeb.Database.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
